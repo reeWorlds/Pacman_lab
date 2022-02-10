@@ -70,7 +70,7 @@ void testPathFindingSpeed()
 	Stats: sum of paths = 1538520, sum of wrong cells = 2958285, sum of unvisited cells = 485678
 
 	A* path finder time = 16.667
-	Stats: sum of paths = 1337880, sum of wrong cells = 13496642, sum of unvisited cells = 371721	
+	Stats: sum of paths = 1337880, sum of wrong cells = 13496642, sum of unvisited cells = 371721
 	*/
 }
 
