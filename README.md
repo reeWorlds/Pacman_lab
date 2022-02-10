@@ -15,3 +15,5 @@
 - green - path
 - yellow - processed cells that are not on path
 - lightsalmon - cells in the queue but never processed
+
+![plot](./image.png)
